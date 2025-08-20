@@ -1,0 +1,32 @@
+/* Light Theme */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+
+}
+
+/* Dark Theme */
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+
+}
+
+div {
+    height:100vh;
+    width: 100vw;
+}
+
+.bodyofpara{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+button{
+    border-radius: 8px;
+    
+}
+
+
+
